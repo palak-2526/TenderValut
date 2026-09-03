@@ -1,0 +1,7 @@
+{
+  "name": "tenderVault",
+  "description": "Responsive electronic tender management and sealed bidding platform with AI-powered eligibility prediction, encrypted submissions, and real-time deadline monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
